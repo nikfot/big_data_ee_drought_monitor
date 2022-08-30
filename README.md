@@ -23,7 +23,7 @@ The scope of this repo is not to present the analysis and the conclusions of the
 ![plot2](https://github.com/nikfot/big_data_ee_drought_monitor/blob/master/sample_output/example2.png?raw=true)
 ![plot3](https://github.com/nikfot/big_data_ee_drought_monitor/blob/master/sample_output/example3.png?raw=true)
 ![plot4](https://github.com/nikfot/big_data_ee_drought_monitor/blob/master/sample_output/example4.png?raw=true)
-![plot5](https://github.com/nikfot/big_data_ee_drought_monitor/blob/master/sample_output/example5.png?raw=true)
+![plot5](https://github.com/nikfot/big_data_ee_drought_monitor/blob/master/sample_output/example5.jpg?raw=true)
 
 ### Google Colab
 Google Colab Link: https://colab.research.google.com/drive/1nD5Zokx5CuaEm3AHceinkI2XQmpVm_0w?usp=sharing
